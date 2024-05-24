@@ -1,0 +1,37 @@
+# Colocar Fundo no Power BI
+
+### Criando o Template
+
+```         
+- Abrir um slide no Power Point nas dimensões 1920x1080
+- Montar o template desejado usando as formas e alguns ícones (utilizando SVG, PNG) e colocando sombra, arredondando cantos, etc.
+```
+
+### Salvando o Template
+
+``` r
+- Após finalizado, ir até a aba "Arquivo"
+- Clicar em "Exportar"
+- Clicar em "Alterar tipo de Arquivo"
+- Escolher "PNG" e clicar em "Salvar Como"
+```
+
+### Colocando o Template
+
+``` r
+- Na aba "Visualizações" 
+- Clicar em "Formato da Página" 
+```
+
+![](C:/Users/Guilherme/Desktop/Organizando coisas/business_case/bc_poke/fundo/part1.png)
+
+``` r
+- Clicar em "Tela de Fundo" 
+- Escolher a imagem
+- Reduzir a transparência para 0
+- Ajustar para "Ajuste"
+```
+
+![](C:/Users/Guilherme/Desktop/Organizando coisas/business_case/bc_poke/fundo/part2.png)
+
+Ta pronto o sorvetinho.
