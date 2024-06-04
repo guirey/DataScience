@@ -23,7 +23,7 @@
 - Clicar em "Formato da Página" 
 ```
 
-![](C:/Users/Guilherme/Desktop/Organizando coisas/business_case/bc_poke/fundo/part1.png)
+![](C:/Users/path/part1.png)
 
 ``` r
 - Clicar em "Tela de Fundo" 
@@ -32,6 +32,6 @@
 - Ajustar para "Ajuste"
 ```
 
-![](C:/Users/Guilherme/Desktop/Organizando coisas/business_case/bc_poke/fundo/part2.png)
+![](C:/Users/path/part2.png)
 
 Ta pronto o sorvetinho.
